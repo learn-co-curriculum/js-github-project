@@ -11,3 +11,15 @@
 ul {
   list-style: none;
 }
+
+.images {
+  width: 200px;
+  height: auto;
+}
+
+.user-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
